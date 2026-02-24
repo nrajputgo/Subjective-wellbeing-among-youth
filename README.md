@@ -16,6 +16,7 @@ RQ4: What are the major inhibitors that negatively affect the subjective wellbei
 ## Repository Structure
 - `main.tex` – LaTeX manuscript source
 - `final.pdf` – Compiled manuscript
+- Future updates will include R and STATA code for reproducible statistical analysis.
 
 Author: Nishtha Rajput  
 Master’s Scholar, Development Studies
