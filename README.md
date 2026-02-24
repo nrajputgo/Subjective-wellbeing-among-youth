@@ -1,6 +1,6 @@
 # Subjective Wellbeing Among Youth
 
-This repository contains the LaTeX manuscript for a research study examining subjective wellbeing (PWI-A) and objective wellbeing (YDI) among youth in Chandigarh, India.
+This repository contains the LaTeX manuscript, quantitative and qualitative data analaysis for a research study "Beyond Objective Measures: Subjective Wellbeing and Life Satisfaction of Youth in Chandigarh" examining subjective wellbeing (PWI-A) and objective wellbeing (YDI) among youth in Chandigarh, India. 
 
 ## Research questions
 RQ1: What is the overall state of objective wellbeing among youth of Chandigarh based on Youth Development Index?
@@ -20,4 +20,5 @@ RQ4: What are the major inhibitors that negatively affect the subjective wellbei
 - `stata/YDI weights.do` - YDI weights to calculate objective wellbeing
 
 Author: Nishtha Rajput  
-Master’s Scholar, Development Studies
+Post Graduate Scholar, Department of Development Studies
+Rajiv Gandhi National Institiute of Youth Development
