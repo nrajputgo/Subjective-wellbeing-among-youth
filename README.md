@@ -10,12 +10,13 @@ RQ4: What are the major inhibitors that negatively affect the subjective wellbei
 
 ## Methods
 - Stratified random sampling (N = 60)
-- Personal Wellbeing Index – Adult (PWI-A)
+- Personal Wellbeing Index - Adult (PWI-A)
 - Youth Development Index (YDI)
 
 ## Repository Structure
-- `main.tex` – LaTeX manuscript source
-- `final.pdf` – Compiled manuscript
+- `main.tex` - LaTeX manuscript source (excerpt)
+- `final.pdf` - Compiled manuscript (excerpt)
+- `qualitative/PWI themebook .md` - Thematic coding
 - Future updates will include R and STATA code for reproducible statistical analysis.
 
 Author: Nishtha Rajput  
