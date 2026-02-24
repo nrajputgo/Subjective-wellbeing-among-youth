@@ -17,7 +17,7 @@ RQ4: What are the major inhibitors that negatively affect the subjective wellbei
 - `main.tex` - LaTeX manuscript source (excerpt)
 - `final.pdf` - Compiled manuscript (excerpt)
 - `qualitative/PWI themebook .md` - Thematic coding
-- Future updates will include R and STATA code for reproducible statistical analysis.
+- `stata/YDI weights.do` - YDI weights to calculate objective wellbeing
 
 Author: Nishtha Rajput  
 Master’s Scholar, Development Studies
